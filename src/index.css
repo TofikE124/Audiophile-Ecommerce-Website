@@ -89,6 +89,7 @@ body{overflow-x: hidden;}
   line-height: 1.66666;
    font-family: 'Manrope', sans-serif;
   overflow-x: hidden;
+  max-width: 100vw;
 }
 
 /* make images easier to work with */
