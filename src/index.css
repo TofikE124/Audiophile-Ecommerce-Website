@@ -88,6 +88,7 @@ body{overflow-x: hidden;}
   background: hsl(var(--clr-pure-ligt));
   line-height: 1.66666;
    font-family: 'Manrope', sans-serif;
+  overflow-x: hidden;
 }
 
 /* make images easier to work with */
